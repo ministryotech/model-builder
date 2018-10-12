@@ -8,11 +8,8 @@ Welcome to The Ministry of Technology open source products. All open source Mini
 
 Our other open source repositories can be found here...
 
-* [https://bitbucket.org/ministryotech](https://bitbucket.org/ministryotech)
 * [https://github.com/ministryotech](https://github.com/ministryotech)
 * [https://github.com/tiefling](https://github.com/tiefling)
-
-Newer content prefers Github. Bitbucket is no longer actively used.
 
 ### Where can I get it?
 You can download the package for this project from any of the following package managers...
