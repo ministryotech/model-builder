@@ -6,7 +6,8 @@ namespace Ministry.ModelBuilder.Abstractions
     /// <summary>
     /// Base Builder Interface
     /// </summary>
-    [SuppressMessage("ReSharper", "UnusedMember.Global")]
+    [SuppressMessage("ReSharper", "UnusedMember.Global", Justification = "Library")]
+    [SuppressMessage("ReSharper", "UnusedType.Global", Justification = "Library")]
     public interface IAsyncModelBuilder<TModel, in TSourceObject>
     {
         /// <summary>
@@ -20,7 +21,8 @@ namespace Ministry.ModelBuilder.Abstractions
     /// <summary>
     /// Base Builder Interface
     /// </summary>
-    [SuppressMessage("ReSharper", "UnusedMember.Global")]
+    [SuppressMessage("ReSharper", "UnusedMember.Global", Justification = "Library")]
+    [SuppressMessage("ReSharper", "UnusedType.Global", Justification = "Library")]
     public interface IAsyncModelBuilder<TModel, in TSourceObject, in TSecondObject>
     {
         /// <summary>
@@ -35,7 +37,8 @@ namespace Ministry.ModelBuilder.Abstractions
     /// <summary>
     /// Base Builder Interface
     /// </summary>
-    [SuppressMessage("ReSharper", "UnusedMember.Global")]
+    [SuppressMessage("ReSharper", "UnusedMember.Global", Justification = "Library")]
+    [SuppressMessage("ReSharper", "UnusedType.Global", Justification = "Library")]
     public interface IAsyncModelBuilder<TModel, in TSourceObject, in TSecondObject, in TThirdObject>
     {
         /// <summary>
